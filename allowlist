@@ -1,0 +1,131 @@
+s3.amazonaws.com
+s3-1.amazonaws.com # CNAME for (s3.amazonaws.com)
+.github.com
+.githubusercontent.com
+github.map.fastly.net # CNAME for (raw.githubusercontent.com)
+.gitlab.com
+.sourceforge.net
+.fls-na.amazon.com # alexa
+.control.kochava.com # alexa 2
+.device-metrics-us-2.amazon.com # alexa 3
+.amazon-adsystem.com # Amazon app
+.px.moatads.com # amazon app 2
+.wildcard.moatads.com.edgekey.net # CNAME for (px.moatads.com)
+.e13136.g.akamaiedge.net # CNAME for (px.moatads.com)
+.secure-gl.imrworldwide.com # amazon app 3
+.pixel.adsafeprotected.com # amazon app 4
+.anycast.pixel.adsafeprotected.com # CNAME for (pixel.adsafeprotected.com)
+.bs.serving-sys.com # amazon app 5
+.bs.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
+.bsla.eyeblaster.akadns.net # CNAME for (bs.serving-sys.com)
+.adsafeprotected.com
+.anycast.static.adsafeprotected.com # CNAME for (static.adsafeprotected.com)
+www.google.com
+youtube.com
+www.youtube.com
+youtube-ui.l.google.com # CNAME for (youtube.com)
+stackoverflow.com
+www.stackoverflow.com
+dropbox.com
+www.dropbox.com
+www.dropbox-dns.com # CNAME for (dropbox.com)
+control.kochava.com
+secure-gl.imrworldwide.com
+pbs.twimg.com # twitter images
+www.pbs.twimg.com # twitter images
+cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
+cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
+cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
+.amazonaws.com
+aan.amazon.com # Amazon Front Page
+www.aan.amazon.com # Amazon Front Page
+aax-us-iad.amazon.com # Required for Item Pages
+www.aax-us-iad.amazon.com # Required for Item Pages
+.s.youtube.com
+.ichnaea.netflix.com
+www.ichnaea.netflix.com
+.ichnaea.dradis.netflix.com # CNAME for (ichnaea.netflix.com)
+.ichnaea.eu-west-1.origin.prodaa.netflix.com # CNAME for (ichnaea.netflix.com)
+.dan.xxx # FreeBSD domain tools
+.assoc-amazon.com # Amazon App
+.amazon.com
+.ssl-images-amazon.com
+.media-amazon.com
+.live.com
+.msidentity.com
+.zoom.us
+.gravitywall.net
+github.githubassets.com
+www.github.githubassets.com
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamusercontent.com
+steamcontent.com
+steamstatic.com
+akamaihd.net
+magistrate.shiversoft.net
+saa.cbsi.com #paramount Plus
+xboxlive.com # Xbox Live
+.windows.com
+.microsoft.com
+.azure.com
+xboxservices.com
+azurefd.net
+azureedge.net
+msedge.net
+msidentity.com
+live.com
+edgekey.net
+azurewebsites.net
+a-msedge.net
+.download.windowsupdate.com
+.dl.delivery.mp.microsoft.com
+.delivery.mp.microsoft.com
+.prod.do.dsp.mp.microsoft.com
+emdl.ws.microsoft.com
+.dl.delivery.mp.microsoft.com
+.update.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+video-dfw5-1.xx.fbcdn.net
+video-dfw5-2.xx.fbcdn.net
+jdoqocy.com #Bing-Rebates
+cj.dotomi.com #Bing
+www.emjcd.com #Bing
+taskernet.com #Tasker premades
+.gravitywall.net
+one.one.one.one
+mozilla.cloudflare-dns.com
+1dot1dot1dot1.cloudflare-dns.com
+cloudflare-dns.com
+dns64.cloudflare-dns.com
+security.cloudflare-dns.com
+family.cloudflare-dns.com
+oncatapult.com #fallguys
+epicgames.com
+epicgames.dev
+easyanticheat.net
+cdn.gamefuel.info
+fallguys-assets.gamefuel.info
+youradchoices.com
+optout.aboutads.info
+wallet-api.urbanairship.com #Add to Google Pay Wallet
+www.ojrq.net #bing Refferals
+cbsinteractive.hb.omtrdc.net #Paramount+
+sdk.iad-03.braze.com #Paramount+
+production-cmp.isgprivacy.cbsi.com #Paramount+
+tags.tiqcdn.com #Paramount+
+s0.2mdn.net #P+
+js.appboycdn.com #P+
+auth.split.io #ahs
+sdk.split.io #ahs
+rdata.mpio.io #ahs
+citidirect.com #Citibank GTC
+gamesindustry.biz
+identity.mparticle.com #Equinox Login
+www.gopjn.com #bing search
+steamdb.info
+xbox.com
+silver.sh #silver exploit framework
+www.gamesindustry.biz
